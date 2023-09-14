@@ -1,4 +1,4 @@
-# Challenge README generator
+# Challenge Note Taker
   ## DESCRIPTION 
   This is the project for the ut coding bootcamp Note Taker challenge creating a editing an html list with javascript referencing an sql database. 
 
